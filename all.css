@@ -1,9 +1,15 @@
+.image{
+    background-image: url("assets/3236267.jpg");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+
 .font1{
     font-size: 8vw;
     font-family: 'Crimson Pro', serif; 
     color: #000;
     line-height: 7vw;
-    margin-bottom: 50px;
+    margin-top: 10px;
 }
 
 img{
@@ -92,4 +98,12 @@ h1{
 
 .font4{
     font-family: 'Poppins', sans-serif;
+}
+
+@media (max-width: 500px) {
+    h1{
+        padding-top: 15px;
+        margin-bottom: 10px;
+        font-size: 12vw;
+    }
 }
