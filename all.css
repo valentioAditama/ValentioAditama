@@ -30,6 +30,7 @@ strong{
         margin-right: auto;
         height: 300px;
     }
+
 }
 
 @media (max-width: 400px) {
@@ -46,6 +47,10 @@ strong{
         margin-right: auto;
         height: 250px;
     }
+
+    .font2{
+        margin-top: 20px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -61,5 +66,9 @@ strong{
         margin-left: auto;
         margin-right: auto;
         height: 400px;
+    }
+
+    .font2{
+        margin-top: 20px;
     }
 }
