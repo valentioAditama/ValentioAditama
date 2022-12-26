@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valentioaditama&show_icons=true&locale=en&layout=compact" alt="valentioaditama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentioaditama&show_icons=true&locale=en" alt="valentioaditama" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentioaditama&" alt="valentioaditama" /></p>
