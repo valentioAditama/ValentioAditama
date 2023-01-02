@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/valentioaditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="valentioaditama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/valentio-aditama-4bbb351bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentio-aditama-4bbb351bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valentio-aditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentio-aditama-4bbb351bb" height="30" width="40" /></a>
 <a href="https://instagram.com/valentio_aditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valentio_aditama" height="30" width="40" /></a>
 </p>
 
