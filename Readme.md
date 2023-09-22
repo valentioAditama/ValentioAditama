@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="coding" width="1000" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" />
+<img alt="coding" width="700" src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Valentio Aditama</h1>
@@ -7,7 +7,7 @@
 </h6>
 
 <p align="center">
-<img alt="coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img alt="coding" width="800" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentioaditama&label=Profile%20views&color=0e75b6&style=flat" alt="valentioaditama" /> </p>
