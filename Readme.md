@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="coding" width="1000" src="https://wallpaperaccess.com/full/704031.jpg" />
+<img alt="coding" width="1000" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Valentio Aditama</h1>
